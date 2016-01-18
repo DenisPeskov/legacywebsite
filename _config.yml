@@ -1,9 +1,9 @@
 # Site settings
-title: Clean Blog
+title: Deep Learning and NLP
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: 
+email: dpeskov@yahoo.com
+description: "A fledgling blog on computer science"
+baseurl:
 url: "http://denispeskov.github.io"
 twitter_username: 
 github_username: 
