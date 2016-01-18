@@ -11,7 +11,8 @@ On studying for my final exam, I found that thinking about the algorithms in a c
 At the simplest level, we have breadth-first search and depth-first search.  These two algorithms are true to their name and cycle through the graph in *O(V+E)* time because they cover every edge and every vertex.
 
 #### BFS                                                     
-![]({{DenisPeskov.github.io}}/img/BFS.gif)              
+![]({{DenisPeskov.github.io}}/img/BFS.gif) 
+
 #### DFS
 ![]({{DenisPeskov.github.io}}/img/DFS.gif)
 
