@@ -34,7 +34,7 @@ The blog is maintained by a Cambridge researcher and has useful tips on deep lea
 ###Fun with Image Generation
 Training a neural network on a particular style can make you an artist in no time.  
 Here is a "self-portrait" in the style of Greco:
-![]({{DenisPeskov.github.io}}/images/Greco_DeepLearning_self.png)
+![]({{DenisPeskov.github.io}}/img/Greco_DeepLearning_self.png)
 
 [Google Deep Dream](https://github.com/google/deepdream) is based on creating a feedback loop of deep neural net predicitions and subsequent image modifications that makes images appear out of thin air.  You can quickly test it out [here](http://deepdreamgenerator.com/).
 
