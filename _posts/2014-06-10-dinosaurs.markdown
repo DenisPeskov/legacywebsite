@@ -1,43 +1,45 @@
 ---
-layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2014-06-10 12:00:00
-author:     "Start Bootstrap"
+layout: post
+title: "Assorted Deep Learning Materials"
+excerpt: "These contain learning resources and academic papers on deep learning"
+date:   2016-1-1 10:00:00
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+##General
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+#### [My favorite resource on neural network implementation has been](http://neuralnetworksanddeeplearning.com/chap6.html)
+Chapter 6 focuses on implementation and the other chapters deal with math, layers, etc.
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+#### [An engineering approach to understanding neural networks](http://karpathy.github.io/neuralnets/)
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+#### [This is a fun assortment of tips from the top experts](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
+The blog is maintained by a Cambridge researcher and has useful tips on deep learning with python
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+#### [Kaggle competition interviews provide specific insights](http://blog.kaggle.com/2012/11/01/deep-learning-how-i-did-it-merck-1st-place-interview)
 
-<h2 class="section-heading">The Final Frontier</h2>
+#### [This is a quick and reliable implementation of selective search](https://github.com/AlpacaDB/selectivesearch)
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+## Academic Papers
+####[TL;DR: Random patterns can be interpreted by neural nets as natural objects with high confidence](http://arxiv.org/pdf/1412.1897v4.pdf)
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+####[TL;DR: A barely noticeable change in the image can lead to different classifications by the model](http://arxiv.org/pdf/1312.6199v4.pdf)
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+####[TL;DR: Movie scenes and dialogue can be used to generate answers to diverse questions](http://arxiv.org/pdf/1512.02902v1.pdf)
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+##Miscellaneous
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+#### Fun with Image Generation
+Training a neural network on a particular style can make you an artist in no time.  
+Here is a "self-portrait" in the style of Greco:
+![]({{DenisPeskov.github.io}}/images/Greco_DeepLearning_self.png)
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+[Google Deep Dream](https://github.com/google/deepdream) is based on creating a feedback loop of deep neural net predicitions and subsequent image modifications that makes images appear out of thin air.  You can quickly test it out [here](http://deepdreamgenerator.com/).
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+#### Installing Caffe
+Installing caffe can be tedious.  Installing it on a Mac was twice as frustrating as on Linux.  Ensuring that dependencies in homebrew and anaconda are installed in the correct locations complicates a seemingly straighforward process:
+http://caffe.berkeleyvision.org/install_osx.html
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+I would recommend installing caffe in CPU_only mode first before trying the GPU installation.  This makes debugging CUDA installation issues easier.  I've successfully run caffe on Amazon Web Services and Nimbix servers without issues.
