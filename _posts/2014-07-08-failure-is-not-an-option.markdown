@@ -11,9 +11,9 @@ On studying for my final exam, I found that thinking about the algorithms in a c
 At the simplest level, we have breadth-first search and depth-first search.  These two algorithms are true to their name and cycle through the graph in *O(V+E)* time because they cover every edge and every vertex.
 
 #### BFS                                                     
-![]({{DenisPeskov.github.io}}/images/BFS.gif)              
+![]({{DenisPeskov.github.io}}/img/BFS.gif)              
 #### DFS
-![]({{DenisPeskov.github.io}}/images/DFS.gif)
+![]({{DenisPeskov.github.io}}/img/DFS.gif)
 
 
 ### Single Source Shortest Path
@@ -22,7 +22,7 @@ At the simplest level, we have breadth-first search and depth-first search.  The
 
 *Note: Bellman-Ford can be handy when the shortest path length is known, as you can bound E.  In contrast, Dijstra's would still run in O(E+Vlg(V)) time.*
 
-![]({{DenisPeskov.github.io}}/images/D_Bellman.gif) 
+![]({{DenisPeskov.github.io}}/img/D_Bellman.gif) 
 
 ### All-Pairs Shortest Path
 APSP builds on SSSP, but has to additionally look at the shortest path from *EACH* of the edges.  So all the runtimes are multiplied by V.
