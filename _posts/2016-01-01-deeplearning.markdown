@@ -20,6 +20,8 @@ The blog is maintained by a Cambridge researcher and has useful tips on deep lea
 
 ### [This is a quick and reliable implementation of selective search](https://github.com/AlpacaDB/selectivesearch)
 
+
+
 ## Academic Papers
 
 ###[TL;DR: Random patterns can be interpreted by neural nets as natural objects with high confidence](http://arxiv.org/pdf/1412.1897v4.pdf)
@@ -27,6 +29,8 @@ The blog is maintained by a Cambridge researcher and has useful tips on deep lea
 ###[TL;DR: A barely noticeable change in the image can lead to different classifications by the model](http://arxiv.org/pdf/1312.6199v4.pdf)
 
 ###[TL;DR: Movie scenes and dialogue can be used to generate answers to diverse questions](http://arxiv.org/pdf/1512.02902v1.pdf)
+
+
 
 ##Miscellaneous
 
