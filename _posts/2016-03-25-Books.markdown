@@ -31,10 +31,10 @@ All of the above have been relatively "fun" experiences in the sense that the pl
 Here are your options (in ascending order of length):
 
 1. Tale of Two Cities by Dickens
-* Brideshead Revisited by Waugh
-* Brothers Karamazov by Dostoevsky
-* Anna Karenina by Tolstoy
-* Moby Dick by Melville 
+2. Brideshead Revisited by Waugh
+3. Brothers Karamazov by Dostoevsky
+4. Anna Karenina by Tolstoy
+5. Moby Dick by Melville 
 
 ## Level 4 - Transcendence 
 
