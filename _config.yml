@@ -1,8 +1,8 @@
 # Site settings
-title: Deep Learning
+title: 2 Cents
 header-img: img/home-bg.jpg
 email: dpeskov@yahoo.com
-description: "A fledgling blog on computer science"
+description: "This is easier than email"
 baseurl:
 url: "http://denispeskov.github.io"
 twitter_username: 
