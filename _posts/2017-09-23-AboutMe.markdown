@@ -14,10 +14,16 @@ Research:
 Measuring the Rapid Growth of HSTS and HPKP Deployments -  Rejected from IMC 2017 -> Resubmitting
 Detecting Suicide Risk from Reddit Posts 2017 - Formal Write-up
 UMDeep at SemEval-2017 Task 1: End-to-End SharedWeight LSTM Model for Semantic Textual Similarity - ACL 2017
+Reinforcement Learning For Kidney Donation Networks - Formal Write-up
 
 Education:
 B.S.F.S. Georgetown University, School of Foreign Service  2014
 PhD Track University of Maryland, Computer Science    Entered Fall 2016.  
 
-Languages (declining order of competence):
+Languages:
 English, Russian, German, Spanish
+
+Languages:
+Python, Java, Coq, C++, R
+
+(in declining order of competence)
