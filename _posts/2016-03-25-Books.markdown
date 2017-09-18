@@ -13,10 +13,12 @@ So we have to fix this:
 
 The first choice is the most important, as if it's a failure, you are lost forever:
 
-As you're likely young and impressionable I would recommend something broad in scope:
-Choose between Oscar Wilde's **Picture of Dorian Gray** *(250 pages)* and Voltaire's **Candide** *(150 pages)*.  Both display great wit, use of language, and creative plots.  Consequently, both were widely banned at various points.  
+## Level 1 - Reading is Fun
 
-## Level 2 - Trumping length to make literature great again
+As you're likely young and impressionable I would recommend something broad in scope:
+Choose between Oscar Wilde's **Picture of Dorian Gray** *(250 pages)* and **The Graduate** *(150 pages)*. Both are relevant to youth and are frequently mentioned (or plagarized).  Most importantly, they are short.  
+
+## Level 2 - Reading is still fun, but can take committed.  
 
 As you've now read something considered "literature" and realized that the l-word is a bit exaggerated, you're ready for something more intimidating.
 
@@ -39,5 +41,6 @@ Here are your options (in ascending order of length):
 ## Level 4 - Transcendence 
 
 * In Pursuit of Lost Time
++ Ulysses
 + Encyclopaedia Britannica
 + Having read this entire blog post
