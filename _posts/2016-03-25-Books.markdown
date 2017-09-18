@@ -3,7 +3,7 @@ layout: post
 title: "Books"
 excerpt: "Getting started"
 date:   2016-3-25 10:00:00
-header-img: "img/post-bg-02.jpg"
+header-img: "img/DumbOaks.jpg"
 ---
 
 ## Level 1 - Learning to read real good 
