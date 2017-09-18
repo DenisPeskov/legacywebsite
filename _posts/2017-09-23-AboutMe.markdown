@@ -2,7 +2,7 @@
 layout: post
 title: "Denis Peskov"
 excerpt: "About Me"
-header-img: "img/me.jpg"
+header-img: "img/me_cropped.jpg"
 ---
 
 ## Interests: 
