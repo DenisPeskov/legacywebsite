@@ -32,7 +32,7 @@ Floyd-Warshall runs in worst case *O(V^3)*.
 **Johnson's Algorithm** takes advantage of **Dijstra's Algorithm**, and runs it over each vertex.
 So, O(V)* O(E+Vlg(V)) = *O(VE + V^2lg(V))*
 
-###Flow Algorithms
+### Flow Algorithms
 Flows are simply graphs with a source and a sink. 
 
 **Ford-Fulkerson** goes over each edge a total of f times, since this is the amount of possible residuals.  
