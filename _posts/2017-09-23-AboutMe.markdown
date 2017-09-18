@@ -21,9 +21,11 @@ Reinforcement Learning For Kidney Donation Networks - Formal Write-up
 
 ## Education: 
 
+PhD (In-Progress) University of Maryland, Computer Science 2016 - ?.
+
 B.S.F.S. Georgetown University, School of Foreign Service 2014 
 
-PhD Track University of Maryland, Computer Science Entered Fall 2016.
+
 
 ## Languages: 
 
