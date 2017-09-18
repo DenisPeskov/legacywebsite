@@ -24,10 +24,12 @@ Reinforcement Learning For Kidney Donation Networks - Formal Write-up
 ## Education: 
 
 PhD (In-Progress) University of Maryland, Computer Science 2016 - ?.
-
 B.S.F.S. Georgetown University, School of Foreign Service 2014 
 
+# Applied Work:
 
+PricewaterhouseCooopers Analytics Innovation Accelerator
+3M Natural Language Processing
 
 ## Languages: 
 
@@ -36,7 +38,6 @@ English, Russian, German, Spanish
 ## Languages: 
 
 Python, Java, Coq, C++, R
-
 (in declining order of competence)
 
 ## Contact
