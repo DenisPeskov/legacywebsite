@@ -1,5 +1,3 @@
-Take this down in sloppy fashion
-
 ---
 layout: post
 title: "Assorted Deep Learning Materials"
