@@ -10,20 +10,28 @@ header-img: "img/me_cropped.jpg"
 Computational Linguistics: 
 1. Abstraction 
 2. Humans-in-the-Loop
+3. Machine Learning Interpretation
 
 ## Research: 
 
-Measuring the Rapid Growth of HSTS and HPKP Deployments - Rejected from IMC 2017 -> Resubmitting 
+### Papers
 
-Detecting Suicide Risk from Reddit Posts 2017 - Formal Write-up 
+Measuring the Rapid Growth of HSTS and HPKP Deployments - Rejected from IMC 2017 -> Resubmitting 
 
 UMDeep at SemEval-2017 Task 1: End-to-End SharedWeight LSTM Model for Semantic Textual Similarity - ACL 2017 
 
+### Other
+
+Detecting Suicide Risk from Reddit Posts 2017 - Formal Write-up 
+
 Reinforcement Learning For Kidney Donation Networks - Formal Write-up
+
+"Teaching a Fridge to See" Presented for PwC at Nimbix Developer Summit 
 
 ## Education: 
 
-PhD (In-Progress) University of Maryland, Computer Science 2016 - ?.
+PhD (In-Progress) University of Maryland, Computer Science  2016 - ?.
+
 B.S.F.S. Georgetown University, School of Foreign Service 2014 
 
 ## Industry Experience:
