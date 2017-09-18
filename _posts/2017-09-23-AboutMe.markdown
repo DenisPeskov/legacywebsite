@@ -37,9 +37,9 @@ Computational Linguistics:
 
 ## Languages: 
 
-** Human **       English, Russian, German, Spanish
+**Human**       English, Russian, German, Spanish
 
-** 010101110 **     Python, Java, Coq, C++, R
+**010101110**     Python, Java, Coq, C++, R
 
 *decreasing order of fluency*
 
