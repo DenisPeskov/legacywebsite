@@ -36,14 +36,12 @@ Computational Linguistics:
 * 3M Natural Language Processing
 
 ## Languages: 
+
+** Human **       English, Russian, German, Spanish
+
+** 010101110 **     Python, Java, Coq, C++, R
+
 *decreasing order of fluency*
-#### Human
-English, Russian, German, Spanish
-
-#### 0101011101
-Python, Java, Coq, C++, R
-
-
 
 ## Contact
 d[mylastname] at cs.umd.edu
