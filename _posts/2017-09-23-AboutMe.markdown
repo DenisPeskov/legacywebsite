@@ -16,11 +16,11 @@ Computational Linguistics:
 
 #### Papers
 
-* Measuring the Rapid Growth of HSTS and HPKP Deployments - Rejected from IMC 2017 -> Resubmitting 
 * UMDeep at SemEval-2017 Task 1: End-to-End SharedWeight LSTM Model for Semantic Textual Similarity - ACL 2017 
 
 #### Other
 
+* Measuring the Rapid Growth of HSTS and HPKP Deployments - Unpublished
 * Detecting Suicide Risk from Reddit Posts 2017 - Formal Write-up 
 * Reinforcement Learning For Kidney Donation Networks - Formal Write-up
 * "Teaching a Fridge to See" Presented for PwC at Nimbix Developer Summit 
@@ -32,7 +32,7 @@ Computational Linguistics:
 
 ## Industry Experience:
 
-* PricewaterhouseCooopers Analytics Innovation Accelerator
+* PricewaterhouseCoopers Analytics Innovation Accelerator
 * 3M Natural Language Processing
 
 ## Languages: 
