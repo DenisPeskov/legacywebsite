@@ -8,8 +8,8 @@ header-img: "img/me_cropped.jpg"
 ## Interests: 
 
 Computational Linguistics: 
-*) Abstraction 
-2) Humans-in-the-Loop
+1. Abstraction 
+2. Humans-in-the-Loop
 
 ## Research: 
 
